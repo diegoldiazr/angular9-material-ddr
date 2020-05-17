@@ -7,6 +7,8 @@ import { MatSliderModule } from '@angular/material/slider';
 
 import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
+export class  {
+import { TableDynamicColumnsExample } from './table'
 
 @NgModule({
   imports:      [ 
